@@ -17,6 +17,7 @@ function indexRoute(req, res, next) {
 
 // SHOW
 function showRoute(req, res, next) {
+  console.log(req)
   req.body.user = req.currentUser
   const lang = req.currentUser.lang === 'de' ? 'en-de' : 'de-en'
   Chat
