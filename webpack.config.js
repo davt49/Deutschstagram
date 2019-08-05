@@ -48,9 +48,6 @@ module.exports = {
     }),
     new CopyWebpackPlugin([
       { from: './src/assets', to: 'assets' }
-    ]),
-    new webpack.DefinePlugin({
-      'process.env.YANDEX_API_KEY': JSON.stringify(process.env.YANDEX_API_KEY)
-    })
+    ])
   ]
 }
