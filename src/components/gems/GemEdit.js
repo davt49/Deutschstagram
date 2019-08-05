@@ -79,9 +79,10 @@ class GemEdit extends React.Component {
                       onChange={this.handleChange}
                     >
                       <option>Choose an option</option>
-                      <option>Markets</option>
-                      <option>Temples</option>                      <option>Beaches</option>
-                      <option>Landscapes</option>
+                      <option>Nature</option>
+                      <option>Historic</option>
+                      <option>Food</option>
+                      <option>Culture</option>
                       <option>Others</option>
                     </select>
                   </div>
