@@ -103,13 +103,13 @@ Each RESTful path from the backend has its own component which manages the funct
 
 ![](pics/react/browserrouter.png)
 
-###### Wins
+## Wins
 
 Dividing tasks on Trello proved to be highly efficient and saved a huge amount of time as there was a very clear task and timeframe that was manageable. For example, three people working on a model each on Node was hugely efficient and it was done in two hours or so. Git management was also very secure as we coordinated nicely side by side.
 
 The App manages to contain many small quality of life additions from likes to followers that it really mimics the vast functionality of a global platform such as Instagram. Really happy with the outcome.
 
-###### Challenges
+## Challenges
 
 Once the concept was created we hadn't got much time to change ideas, because of the scale of the app for 7 days.
 
@@ -121,6 +121,6 @@ Finally, the styling on that particular page was quite challenging and requires 
 
 ![](pics/chatstyle.png)
 
-###### Future Improvements
+## Future Improvements
 
 A more seamless register and login process, as well as helpful messages about how to set up the profile and use the App would be beneficial. Direct Messages between users who follow each other would also be a nice addition.
