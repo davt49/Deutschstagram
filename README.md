@@ -1,14 +1,30 @@
-# Project 3: Deutschstagram
+# Deutschstagram
 
-1 week long 3 people group project (alongside Guy https://github.com/gaebar and Mia https://github.com/MiaLearnsToCode)
+## Brief
 
-Full stack: React.js, Node.js, Express, MongoDB
+As a group, create a MERN stack application (MongoDB, Express, React, Node) with RESTful routes.
 
-Style-framework: Spectre.css
+## Timeframe & Team
+
+7 days, 3 people group project (alongside Guy https://github.com/gaebar and Mia https://github.com/MiaLearnsToCode)
 
 Original group project is Vietgram (https://vietgram-ga.herokuapp.com/), I re-designed the app to Germany after the course, as practice. Functionally it is identical, but all of the necessary parts of the seeds file and nation/translation links elsewhere are changed.
 
+Project is live here https://deutschstagram.herokuapp.com/
+
 ![](pics/destagram.png)
+
+## Technologies
+- React
+- Node
+- Express
+- MongoDB
+- Mongoose
+- Spectre.css
+- Mocha & Chai
+- Git
+- Heroku
+
 
 ## Theme
 
@@ -109,7 +125,7 @@ Dividing tasks on Trello proved to be highly efficient and saved a huge amount o
 
 The App manages to contain many small quality of life additions from likes to followers that it really mimics the vast functionality of a global platform such as Instagram. Really happy with the outcome.
 
-## Challenges
+## Challenges and Main Takeaways
 
 Once the concept was created we hadn't got much time to change ideas, because of the scale of the app for 7 days.
 
