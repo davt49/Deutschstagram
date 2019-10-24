@@ -34,6 +34,8 @@ The concept was to create an instagram-like image sharing board that users can l
 
 ##### Register and Log In to the App.
 
+You can use this Seeds account for quick access: tomschmidt@email, pass
+
 ![](pics/login2.png)
 
 ##### Select navigation from profile icon on top right.

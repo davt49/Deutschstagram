@@ -170,15 +170,3 @@ class Register extends React.Component {
 }
 
 export default Register
-
-
-// <label className="form-radio form-inline">
-//   <input type="radio" name="lang" value="en" onChange={this.handleChange}/>
-//   <i className="form-icon"></i>
-//   English
-// </label>
-// <label className="form-radio form-inline">
-//   <input  type="radio" name="lang" value="vi" onChange={this.handleChange}/>
-//   <i className="form-icon"></i>
-//   Vietnamese
-// </label>
